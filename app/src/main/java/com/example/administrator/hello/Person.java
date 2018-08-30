@@ -5,7 +5,7 @@ package com.example.administrator.hello;
  */
 
 public class Person {
-    String name="张三";
+    String name="王五";
     public String getName()
     {
         return name;
